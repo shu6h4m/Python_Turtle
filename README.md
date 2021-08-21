@@ -31,3 +31,27 @@ Fun with Turtle ☻
 # 8. Earth
 
 ![image](https://user-images.githubusercontent.com/37971771/130310077-1f64917b-3dae-4106-a332-4b723a7ccd63.png)
+
+
+
+<hr>
+
+<h3 align="center"><b> Feel Free to Connect With Me On</b></h3>
+  
+<p align="center">
+<a href="https://www.shu6h4m.in" target="_blank">
+  <img align="center" alt="My Blog" width="30px" src="https://github.com/shu6h4m/Resources/blob/main/web.png" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shu6h4m/" target="_blank">
+  <img align="center" alt="Linkedin" width="30px" src="https://github.com/shu6h4m/Resources/blob/main/linkedin.svg" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/shu6h4m" target="_blank">
+  <img align="center" alt="Twitter" width="32px" src="https://github.com/shu6h4m/Resources/blob/main/twitter.svg" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/shu6h4m/" target="_blank">
+  <img align="center" alt="Instagram" width="32px" src="https://github.com/shu6h4m/Resources/blob/main/instagram.svg" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/shu6h4m/" target="_blank">
+  <img align="center" alt="Facebook" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/facebook.svg" /></a>&nbsp;&nbsp;
+<a href="mailto:shu6h4m@yahoo.com" target="_blank">
+  <img align="center" alt="Gmail" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/gmail.svg" />
+ </p>
+  
+<br>
+  
