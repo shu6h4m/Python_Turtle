@@ -1,5 +1,7 @@
-# Exploring Python Turtle
-Fun with Turtle ☻
+# Fun with Turtle Library of Python ☻
+
+<br>
+
 # 1. BestRangoli
 
 ![image](https://user-images.githubusercontent.com/37971771/130309874-86f3cbf8-6a0e-43ce-9f0f-f80625f54574.png)
@@ -35,7 +37,7 @@ Fun with Turtle ☻
 
 
 <hr>
-
+<h3 align="center"><b> More Designs Comming Soon...</b></h3>
 <h3 align="center"><b> Feel Free to Connect With Me On</b></h3>
   
 <p align="center">
